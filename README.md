@@ -6,7 +6,7 @@ This repository contains a template structure that you can use for your bachelor
 
 How to write a thesis: **TODO: add link**
 
-### [Thesis Report](thesis_report/readme.md)
+### [Written Report](written_report/readme.md)
 
 Previous examples of theses/projects can be found here: https://cloud.tugraz.at/index.php/s/qdYtSex8gbB8ey8.
 

@@ -1,4 +1,4 @@
-# Thesis Report
+# Written Report
 
 This folder should contain the latex code used for your work.
 
