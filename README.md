@@ -1,6 +1,6 @@
 # LENS_Thesis_Template
 
-This repository contains a template structure that you can use for your bachelor thesis, seminar project, or master thesis.
+This repository contains a template structure that you should use for your bachelor thesis, seminar project, or master thesis.
 
 ### Guides
 
