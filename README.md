@@ -4,7 +4,7 @@ This repository contains a template structure that you should use for your bache
 
 ### Guides
 
-How to write a thesis: **TODO: add link**
+You can find our "How to write a thesis" PDF in this repository.
 
 ### [Written Report](written_report/readme.md)
 
